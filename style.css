@@ -16,7 +16,7 @@
 
 .game1{
     width: 200px;
-    height: 200spx;
+    height: 200px;
 }
 
 
@@ -533,7 +533,7 @@ body {
 
 li.list-item {
     display: inline-block;
-    margin: 5px 49px;
+    margin: 5px 48px;
   
     padding: 4px 10px;
     border-radius: 6px;
@@ -611,4 +611,3 @@ li.list-item {
     50% { background-position: 400% 0; }
     100% { background-position: 0 0; }
 }
-
